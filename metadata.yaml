@@ -1,0 +1,26 @@
+_repo: McClure-s-Magazine-Vol.-XXXI-September-1908-No.-5_45924
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45924-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2014-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'American literature -- Periodicals'
+title: McClure's Magazine, Vol. XXXI, September 1908, No. 5
+url: http://www.gutenberg.org/ebooks/45924
